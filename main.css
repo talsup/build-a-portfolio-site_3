@@ -1,0 +1,58 @@
+
+.row {
+    width: 100%;
+    display: flex;
+    margin-bottom: 20px; 
+}
+
+.h1{
+    font-size: 45px;
+    padding: 10px;
+}
+
+
+.h2{
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.h3{
+    font-size: 30px;
+    margin-left: 40px;
+}
+
+
+.cat{
+    width: 160px;
+    margin-bottom: 19px;
+    margin-right:-90px;
+}
+
+.code{
+   margin-left: 9px;
+}
+
+label{
+    text-align: center;
+    display: block;
+}
+
+body{
+    background-color: gray;
+}
+
+.col{
+    padding: 20px;
+    width: 200px;
+
+}
+
+img {
+    max-width: 100%;
+}
+
+.center{
+    text-align: center;
+}
+
